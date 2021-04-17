@@ -1,0 +1,9 @@
+tensorflow
+PySimpleGUI
+pyaudio
+numpy
+keras
+sklearn
+matplotlib
+seaborn
+opencv-python
